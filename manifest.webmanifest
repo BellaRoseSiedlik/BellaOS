@@ -1,0 +1,18 @@
+{
+  "name": "BellaOS",
+  "short_name": "BellaOS",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f5",
+  "theme_color": "#f7f7f5",
+  "description": "A simple personal planner for your day, tasks, meals, workouts, and finances.",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
